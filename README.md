@@ -11,10 +11,14 @@
 
 <img src="https://raw.githubusercontent.com/cinnamon17/posts-api/master/route-list.png">
 
-## Instruccions
+## Instructions
 
 <p>Make a request with this test token in Authorization field</p> 
 <p>Bearer 2|x1VHP4FnnZK4gaDtoy2diyKQgcoVYLGzo1TWHePz</p>
+
+<img src="https://raw.githubusercontent.com/cinnamon17/posts-api/master/postman.png">
+
+<p> You can get all posts, get one post and delete a post, 
 
 ## License
 
