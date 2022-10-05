@@ -11,6 +11,11 @@
 
 <img src="https://raw.githubusercontent.com/cinnamon17/posts-api/master/route-list.png">
 
+## Instruccions
+
+<p>Make a request with this test token in Authorization field</p> 
+<p>Bearer 2|x1VHP4FnnZK4gaDtoy2diyKQgcoVYLGzo1TWHePz</p>
+
 ## License
 
 The project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
